@@ -1,0 +1,5 @@
+﻿A1,B1,C1,D1,E1
+"A2 contains, a comma",B2,C2,D2,E2
+"A3 contains, a comma ""and"" double quotes",B3,C3,D3,E3
+"	",B4,C4,D4,E4
+Cell A4 above contains a tab character,B5,C5,D5,E5
